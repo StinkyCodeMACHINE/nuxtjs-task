@@ -16,7 +16,7 @@
 
 ### Ссылки
 
-- Live Site URL: [https://glowing-narwhal-2ed236.netlify.app/](https://glowing-narwhal-2ed236.netlify.app/)
+- Live Site URL: [https://glittering-sherbet-13b5cb.netlify.app/](https://glittering-sherbet-13b5cb.netlify.app/)
 
 ## Что и как?
 
