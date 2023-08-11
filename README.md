@@ -1,4 +1,5 @@
 Задание по nuxtjs
+
 ## Table of contents
 
 - [Обзор](#обзор)
@@ -15,7 +16,7 @@
 
 ### Ссылки
 
-- Live Site URL: [https://glittering-sherbet-13b5cb.netlify.app/](https://glittering-sherbet-13b5cb.netlify.app/)
+- Live Site URL: [https://rad-macaron-e49b47.netlify.app/](https://rad-macaron-e49b47.netlify.app/)
 
 ## Что и как?
 
