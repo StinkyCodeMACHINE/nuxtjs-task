@@ -1,6 +1,6 @@
-Задание по nuxtjs
+# Задание по nuxtjs
 
-## Table of contents
+## Содержимоое
 
 - [Обзор](#обзор)
   - [Скриншот](#скриншот)
@@ -16,7 +16,7 @@
 
 ### Ссылки
 
-- Live Site URL: [https://rad-macaron-e49b47.netlify.app/](https://rad-macaron-e49b47.netlify.app/)
+- Хостинг: [https://rad-macaron-e49b47.netlify.app/](https://rad-macaron-e49b47.netlify.app/)
 
 ## Что и как?
 
